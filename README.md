@@ -1,4 +1,8 @@
 # Flipr_Internship_program
+
+Worked on two industry-based project Breast Cancer Detection and Customer Segmentation in Banking. Applied various machine learning algorithms to predict and analyse the result.
+
+
 Assignment_02 dataset is- Sample_data.csv
 
 Assignment_03 & 04 dataset: - Trains_Dataset-01.csv
